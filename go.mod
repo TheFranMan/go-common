@@ -1,4 +1,4 @@
-module go-common
+module github.com/TheFranMan/go-common
 
 go 1.23.0
 
